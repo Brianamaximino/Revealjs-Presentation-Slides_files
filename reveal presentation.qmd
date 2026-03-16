@@ -4,8 +4,8 @@ subtitle: "Proposal Presentation"
 author: "Briana Maximino"
 institute: "IBM 6400, Cal Poly Pomona"
 date: "`r Sys.Date()`"
-format: 
-  revealjs:
+format: revealjs: 
+    revealjs:
     theme: serif
     width: 1600
     height: 900
