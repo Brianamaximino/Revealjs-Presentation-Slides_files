@@ -1,0 +1,181 @@
+---
+title: "Briana Maximino's Webstie "
+subtitle: "Proposal Presentation"
+author: "Briana Maximino"
+institute: "IBM 6400, Cal Poly Pomona"
+date: "`r Sys.Date()`"
+format: 
+  revealjs:
+    theme: serif
+    width: 1600
+    height: 900
+    footer: Title of Your Project
+    transition: slide
+    transition-speed: default
+    incremental: false
+    slide-number: true
+    scrollable: false
+    smaller: true
+    code-fold: false
+    code-overflow: wrap
+    number-sections: false
+    number-depth: 5
+    embed-resources: true
+editor: visual
+execute: 
+  echo: true
+  freeze: auto
+---
+
+# Portfolio Website Vision
+
+This presentation explains my plan to build a professional marketing portfolio website.
+
+The purpose of this website is to showcase my projects, skills, and growth as a marketing student.
+
+------------------------------------------------------------------------
+
+# Main Goal of the Website
+
+-   Present my marketing work in a professional way\
+-   Show my learning journey and academic progress\
+-   Build a strong personal brand\
+-   Support internship and career opportunities\
+-   Demonstrate strategic and analytical thinking\
+-   Create a digital marketing presence
+
+------------------------------------------------------------------------
+
+# Personal Brand Direction
+
+## How I want to be seen
+
+-   Aspiring marketing strategist\
+-   Data-driven decision maker\
+-   Creative campaign thinker\
+-   Business-focused student\
+-   Future sports marketing professional\
+-   Growth-oriented learner
+
+------------------------------------------------------------------------
+
+# Your Plan for the Website
+
+A well-organized portfolio website should include clear sections that guide recruiters through my experience.
+
+This structure will make my work easy to understand and visually engaging.
+
+------------------------------------------------------------------------
+
+# Home Page
+
+The home page will include:
+
+-   Short professional introduction\
+-   Personal mission statement\
+-   Career goals\
+-   Featured marketing project\
+-   Clear navigation to other pages
+
+This page creates the first impression of my professional identity.
+
+------------------------------------------------------------------------
+
+# Marketing Projects Page
+
+This section will function like a portfolio blog.
+
+It will include:
+
+-   Marketing campaign projects\
+-   Case studies from classes\
+-   Data visualizations\
+-   Consumer research insights\
+-   Strategy development examples
+
+This shows how I apply marketing concepts in real situations.
+
+------------------------------------------------------------------------
+
+# Dashboard Page
+
+The dashboard will present my analytical work.
+
+It will include:
+
+-   Marketing performance dashboards\
+-   KPI tracking examples\
+-   Data storytelling visuals\
+-   Campaign performance analysis\
+-   Interactive marketing insights
+
+This demonstrates technical and analytical marketing skills.
+
+------------------------------------------------------------------------
+
+# RevealJS Presentation Section
+
+This section will include presentations like this one.
+
+It allows me to:
+
+-   Present marketing ideas clearly\
+-   Practice professional storytelling\
+-   Show structured thinking\
+-   Communicate strategy visually
+
+This highlights presentation and communication abilities.
+
+------------------------------------------------------------------------
+
+# Google Analytics Section
+
+This section will demonstrate digital marketing tracking skills.
+
+It will include:
+
+-   Website traffic analysis\
+-   User behavior insights\
+-   Campaign performance tracking\
+-   Conversion metrics\
+-   Data-driven decision examples
+
+This shows my understanding of modern marketing analytics.
+
+------------------------------------------------------------------------
+
+# Why This Website Matters
+
+Creating this portfolio website helps me:
+
+-   Organize my academic work professionally\
+-   Prepare for marketing internships\
+-   Build an online personal brand\
+-   Track my growth as a marketing student\
+-   Demonstrate real marketing skills
+
+------------------------------------------------------------------------
+
+# Future Improvements
+
+In the future I plan to:
+
+-   Add internship experience projects\
+-   Improve visual design and branding\
+-   Include more advanced analytics dashboards\
+-   Expand marketing case studies\
+-   Add interactive data visualizations
+
+------------------------------------------------------------------------
+
+# Conclusion
+
+This portfolio website represents my journey toward becoming a marketing strategist.
+
+It combines creativity, analytics, and strategic thinking in one professional platform.
+
+------------------------------------------------------------------------
+
+# Thank You
+
+Questions or feedback are welcome.
