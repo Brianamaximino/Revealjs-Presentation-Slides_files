@@ -23,7 +23,6 @@ format:
     number-sections: false
     number-depth: 5
     embed-resources: true
-    css: styles.css
 editor: visual
 execute: 
   echo: true
