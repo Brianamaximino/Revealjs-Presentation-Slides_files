@@ -1,0 +1,10 @@
+---
+title: "Briana Maximino"
+format: html
+---
+
+# Welcome to my Marketing Portfolio
+
+This website showcases my marketing projects, analytics work, and presentations.
+
+[View my presentation](presentation.html)
