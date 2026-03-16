@@ -13,8 +13,6 @@ format:
     transition: slide
     transition-speed: default
     incremental: false
-    toc: true
-    toc-depth: 1
     slide-number: true
     scrollable: false
     smaller: true
