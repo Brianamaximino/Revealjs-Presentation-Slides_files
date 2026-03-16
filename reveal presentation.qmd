@@ -16,7 +16,7 @@ format:
     toc: true
     toc-depth: 1
     slide-number: true
-    scrollable: true
+    scrollable: false
     smaller: true
     code-fold: false
     code-overflow: wrap
