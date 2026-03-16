@@ -1,11 +1,11 @@
 ---
-title: "Briana's Website Proposal"
+title: "Short title of your MSDM Project"
 subtitle: "Proposal Presentation"
-author: "Briana Maximino"
+author: "Joe Doe"
 institute: "IBM 6400, Cal Poly Pomona"
 date: "`r Sys.Date()`"
-format: revealjs: 
-    revealjs:
+format: 
+  revealjs:
     theme: serif
     width: 1600
     height: 900
